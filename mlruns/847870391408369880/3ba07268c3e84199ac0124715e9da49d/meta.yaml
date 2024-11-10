@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/3ba07268c3e84199ac0124715e9da49d/artifacts
+deleted_time: 1731159340881
+end_time: 1731152193792
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: 3ba07268c3e84199ac0124715e9da49d
+run_name: bedecked-calf-204
+run_uuid: 3ba07268c3e84199ac0124715e9da49d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731152190325
+status: 3
+tags: []
+user_id: niman

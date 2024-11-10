@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/19f253addfa24968833b1bad1200da2a/artifacts
+end_time: 1731152197440
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 19f253addfa24968833b1bad1200da2a
+run_name: persistent-hound-108
+run_uuid: 19f253addfa24968833b1bad1200da2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731152193851
+status: 3
+tags: []
+user_id: niman

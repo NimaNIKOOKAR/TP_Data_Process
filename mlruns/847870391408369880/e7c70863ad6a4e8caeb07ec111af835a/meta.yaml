@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/e7c70863ad6a4e8caeb07ec111af835a/artifacts
+deleted_time: 1731159324718
+end_time: 1731151961794
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: e7c70863ad6a4e8caeb07ec111af835a
+run_name: rambunctious-ram-791
+run_uuid: e7c70863ad6a4e8caeb07ec111af835a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731151961713
+status: 3
+tags: []
+user_id: niman

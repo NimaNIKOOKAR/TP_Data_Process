@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/a3028f70ed7f4e439aff39fafcf2381f/artifacts
+deleted_time: 1731159324718
+end_time: 1731151213577
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: a3028f70ed7f4e439aff39fafcf2381f
+run_name: popular-stag-630
+run_uuid: a3028f70ed7f4e439aff39fafcf2381f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731151207361
+status: 3
+tags: []
+user_id: niman

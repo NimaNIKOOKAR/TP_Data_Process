@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731151212973
+current_stage: None
+description: ''
+last_updated_timestamp: 1731151212973
+name: liblinear-quickstart
+run_id: a3028f70ed7f4e439aff39fafcf2381f
+run_link: ''
+source: mlflow-artifacts:/847870391408369880/a3028f70ed7f4e439aff39fafcf2381f/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/847870391408369880/a3028f70ed7f4e439aff39fafcf2381f/artifacts/logistic_regression_model
+user_id: null
+version: 1

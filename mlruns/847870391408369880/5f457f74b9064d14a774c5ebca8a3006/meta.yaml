@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/5f457f74b9064d14a774c5ebca8a3006/artifacts
+end_time: 1731158885059
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 5f457f74b9064d14a774c5ebca8a3006
+run_name: valuable-bear-595
+run_uuid: 5f457f74b9064d14a774c5ebca8a3006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731158884954
+status: 3
+tags: []
+user_id: niman

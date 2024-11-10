@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/12ee9d3566a44c828737b45d93253263/artifacts
+deleted_time: 1731159324717
+end_time: 1731151961674
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: 12ee9d3566a44c828737b45d93253263
+run_name: kindly-swan-597
+run_uuid: 12ee9d3566a44c828737b45d93253263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731151422922
+status: 3
+tags: []
+user_id: niman

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/871e4e68dcde41c9bbe905a0c7bbc35a/artifacts
+deleted_time: 1731159340879
+end_time: 1731151977917
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: 871e4e68dcde41c9bbe905a0c7bbc35a
+run_name: efficient-ape-74
+run_uuid: 871e4e68dcde41c9bbe905a0c7bbc35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731151974522
+status: 3
+tags: []
+user_id: niman

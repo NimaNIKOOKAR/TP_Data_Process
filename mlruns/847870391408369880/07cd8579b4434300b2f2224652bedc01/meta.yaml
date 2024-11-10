@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/07cd8579b4434300b2f2224652bedc01/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 07cd8579b4434300b2f2224652bedc01
+run_name: loud-mole-266
+run_uuid: 07cd8579b4434300b2f2224652bedc01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167442686
+status: 1
+tags: []
+user_id: niman

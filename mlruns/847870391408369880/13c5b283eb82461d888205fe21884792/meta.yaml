@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/13c5b283eb82461d888205fe21884792/artifacts
+end_time: 1731167318057
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 13c5b283eb82461d888205fe21884792
+run_name: omniscient-hound-224
+run_uuid: 13c5b283eb82461d888205fe21884792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731159250839
+status: 3
+tags: []
+user_id: niman

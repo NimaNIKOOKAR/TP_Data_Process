@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/af62d09fc0b64729b10de8b2fddbe656/artifacts
+end_time: 1731159076439
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: af62d09fc0b64729b10de8b2fddbe656
+run_name: rare-mule-428
+run_uuid: af62d09fc0b64729b10de8b2fddbe656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731159072349
+status: 3
+tags: []
+user_id: niman

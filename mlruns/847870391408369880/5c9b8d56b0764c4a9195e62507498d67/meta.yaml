@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/5c9b8d56b0764c4a9195e62507498d67/artifacts
+deleted_time: 1731159340880
+end_time: 1731152190288
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: deleted
+run_id: 5c9b8d56b0764c4a9195e62507498d67
+run_name: glamorous-bug-629
+run_uuid: 5c9b8d56b0764c4a9195e62507498d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731152186814
+status: 3
+tags: []
+user_id: niman

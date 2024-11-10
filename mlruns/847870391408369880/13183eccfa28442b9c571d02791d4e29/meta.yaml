@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/13183eccfa28442b9c571d02791d4e29/artifacts
+end_time: 1731167427531
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 13183eccfa28442b9c571d02791d4e29
+run_name: respected-fish-491
+run_uuid: 13183eccfa28442b9c571d02791d4e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167427453
+status: 3
+tags: []
+user_id: niman

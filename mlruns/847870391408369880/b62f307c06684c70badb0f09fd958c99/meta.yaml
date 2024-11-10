@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/b62f307c06684c70badb0f09fd958c99/artifacts
+end_time: 1731167427414
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: b62f307c06684c70badb0f09fd958c99
+run_name: stately-shoat-608
+run_uuid: b62f307c06684c70badb0f09fd958c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167375719
+status: 3
+tags: []
+user_id: niman

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731153506818
+current_stage: None
+description: ''
+last_updated_timestamp: 1731153506818
+name: Wearable_Stress_Model
+run_id: 6087d21d1a33415ebf9559d647da9130
+run_link: ''
+source: mlflow-artifacts:/847870391408369880/6087d21d1a33415ebf9559d647da9130/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/847870391408369880/6087d21d1a33415ebf9559d647da9130/artifacts/logistic_regression_model
+user_id: null
+version: 7

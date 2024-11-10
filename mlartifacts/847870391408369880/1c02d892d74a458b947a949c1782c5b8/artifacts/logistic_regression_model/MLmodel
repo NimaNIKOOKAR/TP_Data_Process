@@ -1,0 +1,35 @@
+artifact_path: logistic_regression_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 257612
+model_uuid: 5ba273e7a5a248c580a7e0b69f0a3f92
+run_id: 1c02d892d74a458b947a949c1782c5b8
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Heart Rate (BPM)", "required": true}, {"type":
+    "double", "name": "Body Temperature (\u00b0C)", "required": true}, {"type": "double",
+    "name": "Acceleration X (m/s\u00b2)", "required": true}, {"type": "double", "name":
+    "Acceleration Y (m/s\u00b2)", "required": true}, {"type": "double", "name": "Acceleration
+    Z (m/s\u00b2)", "required": true}, {"type": "double", "name": "Activity Type_cycling",
+    "required": true}, {"type": "double", "name": "Activity Type_running", "required":
+    true}, {"type": "double", "name": "Activity Type_walking", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "bool", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-09 15:49:32.106885'

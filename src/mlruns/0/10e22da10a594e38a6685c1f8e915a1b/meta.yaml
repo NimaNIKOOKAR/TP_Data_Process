@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/niman/OneDrive/Desktop/TP_Process/src/mlruns/0/10e22da10a594e38a6685c1f8e915a1b/artifacts
+end_time: 1730921758889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e22da10a594e38a6685c1f8e915a1b
+run_name: Random Forest
+run_uuid: 10e22da10a594e38a6685c1f8e915a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730921756122
+status: 3
+tags: []
+user_id: niman

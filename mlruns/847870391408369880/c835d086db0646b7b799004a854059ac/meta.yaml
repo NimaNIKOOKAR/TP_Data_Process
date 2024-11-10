@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/c835d086db0646b7b799004a854059ac/artifacts
+end_time: 1731167442510
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: c835d086db0646b7b799004a854059ac
+run_name: nervous-perch-464
+run_uuid: c835d086db0646b7b799004a854059ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731167439202
+status: 3
+tags: []
+user_id: niman

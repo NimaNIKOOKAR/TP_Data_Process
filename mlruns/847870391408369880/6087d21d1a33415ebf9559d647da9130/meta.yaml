@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847870391408369880/6087d21d1a33415ebf9559d647da9130/artifacts
+end_time: 1731153507253
+entry_point_name: ''
+experiment_id: '847870391408369880'
+lifecycle_stage: active
+run_id: 6087d21d1a33415ebf9559d647da9130
+run_name: funny-bee-766
+run_uuid: 6087d21d1a33415ebf9559d647da9130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731153503825
+status: 3
+tags: []
+user_id: niman
